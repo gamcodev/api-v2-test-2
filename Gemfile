@@ -5,7 +5,7 @@ ruby '2.7.3'
 
 gem 'rails', '~> 6.1.4'
 gem 'pg', '~> 1.1'
-gem 'puma', '~> 5.0'
+gem 'puma', '4.3.3'
 gem 'jbuilder', '~> 2.7'
 gem 'redis', '~> 4.0'
 gem 'bcrypt', '~> 3.1.7'
